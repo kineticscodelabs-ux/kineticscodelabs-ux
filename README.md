@@ -47,13 +47,28 @@ I build high-performance software systems, scalable automation workflows, and ze
 
 ---
 
+---
+
+---
+
+## 📊 GitHub Stats & Metrics
+
+---
+
 ## 📊 GitHub Stats & Metrics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kineticscodelabs-ux&show_icons=true&theme=dark" alt="Ajeet's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kineticscodelabs-ux&layout=compact&theme=dark" alt="Ajeet's Top Languages" />
+  <!-- GitHub Trophies Card -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kineticscodelabs-ux&theme=onedark&column=4" alt="Ajeet's GitHub Trophies" />
+  </a>
+  <br/><br/>
+  <!-- GitHub Streak Card -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kineticscodelabs-ux&theme=dark" alt="Ajeet's GitHub Streak" />
+  </a>
 </p>
+
 
 ---
 
