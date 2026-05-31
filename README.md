@@ -2,7 +2,7 @@
 
 ### **Founder & Lead Architect at Kinetic Code Labs**
 
-I build high-performance software systems, scalable automation workflows, and zero-defect digital infrastructure designed to solve real business problems.
+I build software systems, automation workflows, and scalable digital infrastructure designed to solve real business problems..
 
 ---
 
