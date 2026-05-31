@@ -47,23 +47,15 @@ I build high-performance software systems, scalable automation workflows, and ze
 
 ---
 
----
-
----
-
-## 📊 GitHub Stats & Metrics
-
----
-
 ## 📊 GitHub Stats & Metrics
 
 <p align="left">
-  <!-- GitHub Trophies Card -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kineticscodelabs-ux&theme=onedark&column=4" alt="Ajeet's GitHub Trophies" />
+  <!-- GitHub Activity Graph (Highly Stable) -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kineticscodelabs-ux&theme=react-dark" alt="Ajeet's GitHub Activity Graph" />
   </a>
   <br/><br/>
-  <!-- GitHub Streak Card -->
+  <!-- GitHub Streak Card (Working) -->
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kineticscodelabs-ux&theme=dark" alt="Ajeet's GitHub Streak" />
   </a>
