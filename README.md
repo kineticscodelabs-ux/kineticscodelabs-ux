@@ -47,6 +47,16 @@ I build high-performance software systems, scalable automation workflows, and ze
 
 ---
 
+## 📊 GitHub Stats & Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kineticscodelabs-ux&show_icons=true&theme=dark" alt="Ajeet's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kineticscodelabs-ux&layout=compact&theme=dark" alt="Ajeet's Top Languages" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.kineticcodelabs.in)
