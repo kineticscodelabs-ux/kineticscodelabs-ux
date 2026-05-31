@@ -49,17 +49,19 @@ I build software systems, automation workflows, and scalable digital infrastruct
 
 ## 📊 GitHub Stats & Metrics
 
+## 📊 GitHub Stats & Metrics
+
 <p align="left">
-  <!-- GitHub Activity Graph (Highly Stable) -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/kineticscodelabs-ux">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kineticscodelabs-ux&theme=react-dark" alt="Ajeet's GitHub Activity Graph" />
   </a>
   <br/><br/>
-  <!-- GitHub Streak Card (Working) -->
-  <a href="https://git.io/streak-stats">
+
+  <a href="https://github.com/kineticscodelabs-ux">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kineticscodelabs-ux&theme=dark" alt="Ajeet's GitHub Streak" />
   </a>
 </p>
+
 
 
 ---
